@@ -1,0 +1,16 @@
+"An arbitrary 2-local Hamiltonian can be made to have coefficients that are integral multiples of
+ α by dividing them all by their greatest common divisor and multiplying by  Delta_a."
+
+What about  pi*x1x2 + e*x1x3 ?
+We can make the first coefficient an integer by dividing by pi.
+Then we have x1x2 + e*x1x3, and we cannot make the 2nd coefficient an integer without messing up the first coefficient again.
+
+"We assume without loss of generality that the coefficients of the PUBO to be reduced are integers
+and structure the reductions so that the reduced QUBO also has integral coefficients."
+
+Have you not lost generality, because you can't do pi*x1x2 + e*x1x3 ?
+
+Also, do we really need (1 + |alpha_ijk|) everywhere instead of just Lambda > 0?
+
+
+
